@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 Homework 11: 
 
-<a href="WebVisualization/index.html">
+### Page links:
   
-  my page: [Web Visualization]("https://newton1021.github.io/Web-Design-Challenge/WebVisualization/).
+  1. my page: [Web Visualization]("https://newton1021.github.io/Web-Design-Challenge/WebVisualization/index.html).
