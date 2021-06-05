@@ -1,0 +1,500 @@
+,city,state,country,latitude,longitude
+0,6th floor,New York,United States,40.745487,-73.99168499999999
+1,Chokurdakh,Sakha Republic,Russia,70.622169,147.916168
+2,Rikitea,The Tuamotu and Gambier Islands,French Polynesia,-23.1223034,-134.9691543
+3,210,New York,United States,40.72969990000001,-73.98881349999999
+4,425,Alabama,United States,33.4909753,-86.8183665
+5,San Pedro Pochutla,Oaxaca,Mexico,15.7489259,-96.4672856
+6,Turukhansk,Krasnoyarsk Krai,Russia,65.79585999999999,87.962418
+7,Gorgan,Golestan Province,Iran,36.8456427,54.4393363
+8,Acapulco,Guerrero,Mexico,16.8531086,-99.8236533
+9,Jamestown,Virginia,United States,37.2116383,-76.7752102
+10,Clyde River,Nunavut,Canada,70.47636500000002,-68.60126509999999
+11,Severo-Kurilsk,Sakhalin Oblast,Russia,50.6683424,156.115192
+12,Ikom,Cross River,Nigeria,5.9616504,8.7205877
+13,Port Lincoln,South Australia,Australia,-34.7226381,135.8597449
+14,Stornoway,Scotland,United Kingdom,58.209435,-6.3848692
+15,Tezu,Arunachal Pradesh,India,27.9276542,96.1533094
+16,Lebu,Bio Bio,Chile,-37.6080479,-73.6514907
+17,Klyuchi,Kamchatka Krai,Russia,56.3220231,160.8433324
+18,Saint-Philippe,Saint-Pierre,Réunion,-21.3035757,55.7356129
+19,Puerto Ayora,Galápagos Islands,Ecuador,-0.7432918,-90.3156893
+20,El Fuerte,Sinaloa,Mexico,26.417632,-108.6145938
+21,Hermanus,Western Cape,South Africa,-34.4092004,19.2504436
+22,San Patricio,Texas,United States,27.9544619,-97.77194190000002
+23,Mindelo,São Vicente,Cape Verde,16.8765457,-24.9813499
+24,Torbay,England,United Kingdom,50.4392329,-3.5369899
+25,Port Blair,Andaman and Nicobar Islands,India,11.6233774,92.7264828
+26,Klaksvík,Northern Isles,Faroe Islands,62.2271922,-6.5779064
+27,406,New Jersey,United States,40.8074178,-74.1927331
+28,Shahrbabak,Kerman Province,Iran,30.11721589999999,55.1210303
+29,756,Ohio,United States,39.9565109,-82.8497895
+30,Matara,Southern Province,Sri Lanka,5.95492,80.5549561
+31,Lokosovo,Khanty-Mansi Autonomous Okrug,Russia,61.131389,74.855278
+32,Ust-Kamchatsk,Kamchatka Krai,Russia,56.22747,162.469299
+33,Princeton,New Jersey,United States,40.3430942,-74.65507389999999
+34,Ittoqqortoormiit,Sermersooq Municipality,Greenland,70.48556909999999,-21.9628757
+35,100,Texas,United States,31.7591601,-106.485421
+36,Ferkessédougou,Savanes District,Côte d'Ivoire,9.584201199999999,-5.1953554
+37,Kota Ambon,Maluku,Indonesia,-3.6386665,128.1688559
+38,105,Texas,United States,32.774847,-97.12369799999999
+39,Kiunga,Western Province,Papua New Guinea,-6.1202907,141.2998457
+40,Shemysheika,Penza Oblast,Russia,52.8983155,45.3899032
+41,Yellowknife,Northwest Territories,Canada,62.4539717,-114.3717887
+42,Attawapiskat,Ontario,Canada,52.9258846,-82.42889219999999
+43,Busselton,Western Australia,Australia,-33.6531584,115.3454892
+44,Bambous Virieux,Grand Port District,Mauritius,-20.3438619,57.7636821
+45,Saint Joseph,Missouri,United States,39.7674578,-94.84668099999999
+46,Camacha,Madeira,Portugal,32.679852,-16.8502879
+47,Taolagnaro,Toliara Province,Madagascar,-25.0225309,46.9853688
+48,Dmitriyevskoye,Vladimir Oblast,Russia,56.11902670000001,41.4681985
+49,Kavieng,New Ireland Province,Papua New Guinea,-2.5781167,150.8086082
+50,Devils Lake,Wisconsin,United States,43.4183975,-89.7309534
+51,#202,Florida,United States,30.2881911,-81.4624499
+52,Се́льское поселе́ние Сентябрьский,Ханты-Мансийский автономный округ,Russia,60.49545690000001,72.2080598
+53,Adrar,Adrar Province,Algeria,28.0174403,-0.2642497
+54,Kazachinskoye,Krasnoyarsk Krai,Russia,57.69515010000001,93.2753817
+55,Cape Town,Western Cape,South Africa,-33.9248685,18.4240553
+56,Daru,Western Province,Papua New Guinea,-9.078195899999999,143.2099707
+57,Kachīry,Pavlodar Province,Kazakhstan,53.0695445,76.1038295
+58,Pelabuhanratu,West Java,Indonesia,-6.9852341,106.5475399
+59,Srednekolymsk,Sakha Republic,Russia,67.43730699999999,153.728674
+60,Salalah,Dhofar Governorate,Oman,17.0193843,54.11075049999999
+61,44,Ontario,Canada,43.6693078,-79.4639222
+62,Cap Malheureux,Rivière du Rempart District,Mauritius,-19.986874,57.61274239999999
+63,Ponta Do Sol,Madeira,Portugal,32.6854883,-17.0864266
+64,Lorengau,Manus Province,Papua New Guinea,-2.0298424,147.2743657
+65,Cabo San Lucas,Baja California Sur,Mexico,22.8905327,-109.9167371
+66,Qaanaaq,Qaasuitsup Municipality,Greenland,77.4670434,-69.2284827
+67,Broome,Western Australia,Australia,-17.9644291,122.2303657
+68,Cairns,Queensland,Australia,-16.9203476,145.7709529
+69,Cortes Bank,,,32.4666667,-119.1666667
+70,8050,Texas,United States,32.9064464,-96.76638009999999
+71,Rio Grande City,Texas,United States,26.3797874,-98.8203046
+72,Poum Lake,British Columbia,Canada,49.5506879,-125.0753392
+73,Necochea,Buenos Aires Province,Argentina,-38.5544968,-58.73960879999999
+74,Reisterstown,Maryland,United States,39.4695489,-76.82942129999999
+75,Marsciano,Umbria,Italy,42.9517217,12.3234816
+76,Lungulețu,Dâmbovița County,Romania,44.6027201,25.6620609
+77,Butaritari,,Kiribati,3.1166667,172.8
+78,Mucurapo,Port of Spain Corporation,Trinidad and Tobago,10.6693395,-61.5325824
+79,Bengkulu,Bengkulu,Indonesia,-3.792845099999999,102.2607641
+80,Vila Velha,State of Espírito Santo,Brazil,-20.3477821,-40.2949528
+81,Atuona,Marquesas Islands,French Polynesia,-9.8028605,-139.0398069
+82,Hithadhoo,South Province,Maldives,-0.6060574,73.0892245
+83,Bluff,Utah,United States,37.2844448,-109.5517877
+84,Iqaluit,Nunavut,Canada,63.74669300000001,-68.5169669
+85,Nantucket,Massachusetts,United States,41.2834704,-70.099451
+86,180,Missouri,United States,38.7809116,-90.3638024
+87,Amderma,Nenets Autonomous Okrug,Russia,69.751221,61.6636961
+88,Ushuaia,Tierra del Fuego Province,Argentina,-54.8019121,-68.3029511
+89,Höfn,,Iceland,64.24970259999999,-15.2020077
+90,Progreso,Yucatan,Mexico,21.2811908,-89.66516279999999
+91,Njombe,Iringa Region,Tanzania,-9.3731511,34.8005067
+92,Norman Wells,Northwest Territories,Canada,65.28149379999999,-126.8286524
+93,Coyhaique,Aysén,Chile,-45.5712254,-72.068265
+94,Pontes e Lacerda,State of Mato Grosso,Brazil,-15.2334749,-59.3285193
+95,Cidreira,State of Rio Grande do Sul,Brazil,-30.1769388,-50.2089142
+96,Hoseyni,,Iran,34.7808149,60.42570499999999
+97,Punta Arenas,Magallanes and Chilean Antarctica,Chile,-53.1638329,-70.9170683
+98,Luang Prabang,Luang Prabang Province,Laos,19.883285,102.1387166
+99,Desbiens,Quebec,Canada,48.4177323,-71.9489606
+100,Puerto Ayacucho,Amazonas,Venezuela,5.6614718,-67.58277439999999
+101,Ste 502,Texas,United States,30.4454815,-97.74471460000001
+102,Buraydah,Al Qassim,Saudi Arabia,26.3592309,43.98181200000001
+103,Jinchengjiang District,Guangxi,China,24.689703,108.037276
+104,#211,Massachusetts,United States,42.3233721,-71.4003591
+105,Pangnirtung,Nunavut,Canada,66.1465578,-65.7012182
+106,Riyadh,Riyadh Province,Saudi Arabia,24.7135517,46.6752957
+107,Sorong,West Papua,Indonesia,-0.8761629000000001,131.255828
+108,Ismailia,Ismailia Governorate,Egypt,30.5964923,32.2714587
+109,Norrtälje,Stockholm County,Sweden,59.7595841,18.7013584
+110,Shakawe,North-West District,Botswana,-18.3673364,21.8389726
+111,Gat,South District,Israel,31.627796,34.794112
+112,Quatre Cocos,Flacq District,Mauritius,-20.201639,57.7743197
+113,Carnarvon,Western Australia,Australia,-24.8838524,113.657068
+114,Aginskoe,Zabaykalsky Krai,Russia,51.1032586,114.5427156
+115,Belushya Guba,Arkhangelsk Oblast,Russia,71.53903389999999,52.3381368
+116,Belousovka,East Kazakhstan Province,Kazakhstan,50.13142320000001,82.5302523
+117,Alirajpur,Madhya Pradesh,India,22.3059709,74.35581479999999
+118,Tasiilaq,Sermersooq Municipality,Greenland,65.6134561,-37.6335696
+119,Sept-Iles,Quebec,Canada,50.21329679999999,-66.37579199999999
+120,Paralimni,Famagusta,Cyprus,35.0352421,33.986149
+121,Tessalit,Kidal Region,Mali,20.2573532,0.9910297999999998
+122,Nador,Oriental,Morocco,35.1686165,-2.9275836
+123,Muhos,,Finland,64.8075384,25.9942516
+124,Sao Filipe,Sao Filipe,Cape Verde,14.8951679,-24.4945636
+125,Wichita Falls,Texas,United States,33.8893394,-98.4874877
+126,Maceió,State of Alagoas,Brazil,-9.6498487,-35.7089492
+127,Kununurra,Western Australia,Australia,-15.7758935,128.7385753
+128,Kulhudhuffushi,Upper North Province,Maldives,6.6261633,73.0670909
+129,Kisbér,,Hungary,47.4975746,18.028651
+130,Yulara,Northern Territory,Australia,-25.237979,130.9856199
+131,Yuancheng District,Guangdong Province,China,23.733969,114.702517
+132,Genthin,Saxony-Anhalt,Germany,52.4006218,12.1601527
+133,2809,Georgia,United States,33.5435662,-84.3014666
+134,Bani,Centre-Nord Region,Burkina Faso,13.6416525,-1.4929475
+135,7100,Oklahoma,United States,35.395382,-97.45691400000001
+136,10808,Oklahoma,United States,36.0603092,-95.8561644
+137,Gravdal,Nordland,Norway,68.1203112,13.5365569
+138,Oyugis,Homa Bay County,Kenya,-0.5078963,34.73816619999999
+139,Arraial do Cabo,State of Rio de Janeiro,Brazil,-22.9673373,-42.0268099
+140,Aberdeen,South Dakota,United States,45.4646985,-98.4864829
+141,Ribeira Grande,Azores,Portugal,37.8210369,-25.5148137
+142,Nipawin,Saskatchewan,Canada,53.3623525,-104.0130053
+143,Victoria,British Columbia,Canada,48.4284207,-123.3656444
+144,Hualmay District,Lima Region,Peru,-11.0883431,-77.61065119999999
+145,Tan An,Long An Province,Vietnam,10.5383411,106.40513
+146,Gladstone,Missouri,United States,39.2038918,-94.554677
+147,Camana,Arequipa,Peru,-16.6235522,-72.7104708
+148,Saldanha,Western Cape,South Africa,-33.0276981,17.9176312
+149,Santa Cruz de Tenerife,Canary Islands,Spain,28.4636296,-16.2518467
+150,Bolungarvík,,Iceland,66.1517719,-23.261709
+151,Puerto Colombia,Atlantico,Colombia,11.001004,-74.950761
+152,Talnakh,Krasnoyarsk Krai,Russia,69.5,88.39999999999999
+153,Albany,New York,United States,42.6525793,-73.7562317
+154,Vila Franca do Campo,Azores,Portugal,37.7157269,-25.4345063
+155,Chatanga,Krasnoyarsk Krai,Russia,71.964027,102.4406129
+156,Paamiut,Sermersooq Municipality,Greenland,61.99411509999999,-49.6665709
+157,Jiroft,Kerman Province,Iran,28.6751124,57.73715689999999
+158,Nanortalik,Sermersooq Municipality,Greenland,60.1424955,-45.2394951
+159,Diego de Almagro,Atacama,Chile,-26.3902488,-70.0475302
+160,Nelson Bay,New South Wales,Australia,-32.715,152.151111
+161,Lạng Sơn,Lạng Sơn,Vietnam,21.853708,106.761519
+162,Lagoa,Faro District,Portugal,37.1356176,-8.4514359
+163,Inírida,Guainia,Colombia,3.8702044,-67.92433609999999
+164,Krasnyy Chikoy,Zabaykalsky Krai,Russia,50.3701705,108.7703777
+165,Itarema,State of Ceará,Brazil,-3.0318593,-39.8579118
+166,Santa Isabel,Santa Isabel,Puerto Rico,17.9660775,-66.404892
+167,Bonavista,Newfoundland and Labrador,Canada,48.6533449,-53.11182489999999
+168,Pangody,Yamalo-Nenets Autonomous Okrug,Russia,65.85451730000001,74.4882052
+169,Vestmannaeyjar,,Iceland,63.437679,-20.267321
+170,Suite 570,New York,United States,40.6790166,-73.9201934
+171,Kodinsk,Krasnoyarsk Krai,Russia,58.60767269999999,99.1779093
+172,Lompoc,California,United States,34.6391501,-120.4579409
+173,The Castro,California,United States,37.7609082,-122.4350043
+174,Ola,Arkansas,United States,35.0323119,-93.22323449999999
+175,Basti,Uttar Pradesh,India,26.8139844,82.7629893
+176,Westport,Connecticut,United States,41.1414717,-73.3579049
+177,Mangrol,Gujarat,India,21.1171698,70.11581129999999
+178,Lucea,Hanover Parish,Jamaica,18.4504186,-78.17639369999999
+179,Shushenskoe,Krasnoyarsk Krai,Russia,53.3268095,91.9436111
+180,Mamakan,Irkutsk Oblast,Russia,57.8181289,114.0147135
+181,50,California,United States,38.4394213,-122.7106652
+182,Catamarca,Catamarca Province,Argentina,-28.469581,-65.7795441
+183,Cayenne,Arrondissement of Cayenne,French Guiana,4.92242,-52.3134531
+184,Sal Rei,Boa Vista,Cape Verde,16.183349,-22.9148168
+185,Katsuura,Chiba,Japan,35.1522272,140.3208833
+186,Buala,Isabel Province,Solomon Islands,-8.1662459,159.6189829
+187,Luanda,Luanda Province,Angola,-8.8146556,13.2301756
+188,New Norfolk,Tasmania,Australia,-42.781144,147.0622665
+189,409,California,United States,33.9196217,-118.4118604
+190,Dunmore East,County Waterford,Ireland,52.1527666,-6.994803999999999
+191,General Pico,La Pampa,Argentina,-35.6593239,-63.75778869999999
+192,Alta Floresta,State of Mato Grosso,Brazil,-9.8672231,-56.0870033
+193,Viedma,Río Negro,Argentina,-40.8119087,-62.9962044
+194,Malibu,California,United States,34.0259216,-118.7797571
+195,Chimbote,Ancash,Peru,-9.063336399999999,-78.589011
+196,Cabanas de Tavira - Algarve,Faro,Portugal,37.1387953,-7.592285499999999
+197,Paungde,Bago Region,Myanmar (Burma),18.4931618,95.50662419999999
+198,Oktyabrsky,Republic of Bashkortostan,Russia,54.4772015,53.4895394
+199,Goma,North-Kivu,Democratic Republic of the Congo,-1.658501,29.2204548
+200,Amalapuram,Andhra Pradesh,India,16.5774798,82.0031455
+201,Bani Waled,Misrata District,Libya,31.7975831,14.053676
+202,Fallon,Nevada,United States,39.4748693,-118.7770407
+203,Gambela,Gambella,Ethiopia,8.2471899,34.5915966
+204,Beloha,Toliara Province,Madagascar,-25.1694494,45.0606557
+205,Airai,,Palau,7.396611799999999,134.5690225
+206,Strezhevoy,Tomsk Oblast,Russia,60.72360759999999,77.5809306
+207,Hobart,Tasmania,Australia,-42.8826055,147.3257197
+208,Piraí do Sul,State of Paraná,Brazil,-24.5392476,-49.9409775
+209,Seoul,,South Korea,37.566535,126.9779692
+210,Burnie,Tasmania,Australia,-41.0522881,145.904988
+211,Upernavik,Kitaa,Greenland,72.7862882,-56.1375527
+212,Dongsheng District,Inner Mongolia,China,39.822507,109.963338
+213,Mocuba,Zambezia Province,Mozambique,-16.8402212,36.9648534
+214,Cam Ranh,Khanh Hoa Province,Vietnam,11.9662117,109.1915578
+215,Sheberghan,Jowzjan,Afghanistan,36.6817149,65.7490624
+216,Karasburg,Karas Region,Namibia,-28.0216751,18.7482165
+217,Verkhneviliuisk,Sakha Republic,Russia,63.44538369999999,120.3277282
+218,Kikwit,Kwilu,Democratic Republic of the Congo,-5.0487359,18.7838572
+219,Mahebourg,Grand Port District,Mauritius,-20.4059505,57.7034222
+220,1000,New York,United States,40.7794366,-73.963244
+221,Mar del Plata,Buenos Aires Province,Argentina,-38.0054771,-57.5426106
+222,Morehead,Kentucky,United States,38.1839705,-83.4326841
+223,Takoradi,Western Region,Ghana,4.9015794,-1.7830973
+224,1710,California,United States,37.5003923,-122.2607261
+225,513,Iowa,United States,41.659888,-91.5280319
+226,Barentsburg,Svalbard,Svalbard and Jan Mayen,78.0648475,14.2334597
+227,Zasheyek,Murmansk Oblast,Russia,67.4030643,32.5189494
+228,455,Indiana,United States,41.46460099999999,-87.3323017
+229,Dafeng District,Jiangsu,China,33.200333,120.50085
+230,Puerto del Rosario,Canary Islands,Spain,28.500821,-13.8628367
+231,Anqing,Anhui,China,30.531919,117.115101
+232,Tsiombe,Toliara Province,Madagascar,-25.3168473,45.48630929999999
+233,Murdochville,Quebec,Canada,48.959142,-65.4949729
+234,Narsaq,Kujalleq Municipality,Greenland,60.9129622,-46.0504831
+235,Bredasdorp,Western Cape,South Africa,-34.5385222,20.0568771
+236,Jinchang,Gansu,China,38.520089,102.188043
+237,Bahāwalnagar,Punjab,Pakistan,30.0024888,73.2411506
+238,Matru,Southern Province,Sierra Leone,7.6042266,-12.1718486
+239,Lázaro Cárdenas,Michoacán,Mexico,17.9567646,-102.1943485
+240,64,New York,United States,41.098076,-73.947919
+241,Geraldton,Western Australia,Australia,-28.7750917,114.609858
+242,San Pedro del Ycuamandiyú,San Pedro Department,Paraguay,-24.0863273,-57.0844094
+243,Brekstad,Trøndelag,Norway,63.6862525,9.6623489
+244,Ghatanji,Maharashtra,India,20.1436894,78.311672
+245,Atar,Adrar,Mauritania,20.5072923,-13.052978
+246,Vanimo,Sandaun Province,Papua New Guinea,-2.6896767,141.2998457
+247,416,Oaxaca,Mexico,17.0588821,-96.7273081
+248,Chersky,Sakha Republic,Russia,68.742677,161.3507839
+249,Bendigo,Victoria,Australia,-36.7570157,144.2793906
+250,Celestún,Yucatan,Mexico,20.8593042,-90.3972052
+251,Grieskirchen,Upper Austria,Austria,48.23587,13.82617
+252,Deqing,Zhejiang,China,30.54251,119.9774
+253,Ouargla,Ouargla Province,Algeria,31.9527411,5.3335348
+254,Bourail,South Province,New Caledonia,-21.5669347,165.4985521
+255,650,Québec,Canada,45.3283677,-73.2896554
+256,Winnemucca,Nevada,United States,40.9729584,-117.7356849
+257,Port Hedland,Western Australia,Australia,-20.3110308,118.6094543
+258,Qiongshan District,Hainan,China,20.003169,110.353972
+259,Benguela,Benguela Province,Angola,-12.5905158,13.416501
+260,Vigrestad,Rogaland,Norway,58.5710321,5.6818233
+261,Gqeberha,Eastern Cape,South Africa,-33.9608369,25.6022423
+262,Samarai Island,,Papua New Guinea,-10.6120235,150.6640758
+263,Bubaque,Bolama,Guinea-Bissau,11.2987384,-15.8378366
+264,Borogontsy,Sakha Republic,Russia,62.679165,131.152863
+265,Kasongo-Lunda,Kwango,Democratic Republic of the Congo,-6.4788114,16.8119382
+266,Yomitan,Okinawa,Japan,26.3960774,127.7444117
+267,Ust-Tsilma,Komi Republic,Russia,65.4338788,52.1540756
+268,Yizhou,Xinjiang,China,42.3411207,93.5175471
+269,Trincomalee,Eastern Province,Sri Lanka,8.5873638,81.2152121
+270,Leshukonskoye,Arkhangelsk Oblast,Russia,64.89734659999999,45.76517339999999
+271,Nabire,Papua,Indonesia,-3.3722254,135.5016253
+272,Houston,Texas,United States,29.7604267,-95.3698028
+273,Dikson,Krasnoyarsk Krai,Russia,73.507735,80.53103010000001
+274,Biak,Papua,Indonesia,-1.0381022,135.9800848
+275,Outjo,Kunene Region,Namibia,-20.1127536,16.1610343
+276,Ust-Kuyga,Sakha Republic,Russia,69.99674999999999,135.5713649
+277,Rudnichnyi,Kirov Oblast,Russia,59.6171873,52.4731822
+278,Touggourt,Ouargla Province,Algeria,33.1049642,6.0662834
+279,Badia Polesine,Veneto,Italy,45.0930208,11.4930558
+280,561,South Carolina,United States,34.7923517,-82.3609264
+281,Anahuac,Texas,United States,29.7730001,-94.6826961
+282,Tuatapere,Southland,New Zealand,-46.1315913,167.6896869
+283,Fort-Shevchenko,Mangystau Province,Kazakhstan,44.5075526,50.2624052
+284,Kruisfontein,Eastern Cape,South Africa,-33.9843356,24.732102
+285,Honningsvåg,Troms og Finnmark fylke,Norway,70.9822909,25.9702075
+286,1805,Florida,United States,30.4641609,-84.2822418
+287,Jumla,Karnali Province,Nepal,29.28892179999999,82.3017728
+288,Rundu,Kavango Region,Namibia,-17.9253295,19.7532148
+289,Elbistan,Kahramanmaraş,Turkey,38.2522117,37.3827234
+290,Ermoupoli,,Greece,37.4418105,24.9404242
+291,Catende,State of Pernambuco,Brazil,-8.6679698,-35.7218229
+292,East London,England,United Kingdom,51.55633,0.0655092
+293,1300,Indiana,United States,41.0858929,-85.147994
+294,Touros,State of Rio Grande do Norte,Brazil,-5.1961669,-35.4635381
+295,Souillac,Occitanie,France,44.893626,1.478613
+296,Khomein,Markazi Province,Iran,33.6406148,50.0771125
+297,Qeshm,,Iran,26.8118673,55.89132069999999
+298,600,New York,United States,40.7307358,-74.0091687
+299,Lesozavodsk,Primorsky Krai,Russia,45.4645149,133.3980578
+300,Ancud,Los Lagos,Chile,-41.8675003,-73.8276965
+301,Ustye,Vologda Oblast,Russia,59.6313435,39.72516
+302,Nouadhibou,Dakhlet Nouadhibou,Mauritania,20.9425179,-17.0362272
+303,Vestmanna,Streymoy,Faroe Islands,62.16316999999999,-7.165286099999999
+304,Navapur,Maharashtra,India,21.1616527,73.7946403
+305,Ürümqi,Xinjiang,China,43.825592,87.61684799999999
+306,Tumanny,Murmansk Oblast,Russia,68.878911,35.6675264
+307,2330,California,United States,34.0324527,-117.5948965
+308,Camocim,State of Ceará,Brazil,-2.9008418,-40.84209999999999
+309,Kadipaten,West Java,Indonesia,-6.767699800000001,108.1676607
+310,Mount Gambier,South Australia,Australia,-37.8284406,140.7806761
+311,Saskylakh,Sakha Republic,Russia,71.954308,114.1198349
+312,Øksfjord,Troms og Finnmark fylke,Norway,70.239572,22.3478534
+313,68,Massachusetts,United States,42.3189635,-72.6332728
+314,7305,Kansas,United States,38.95615,-94.670166
+315,Wentzville,Missouri,United States,38.81144,-90.8529107
+316,1-15,Nordrhein-Westfalen,Germany,51.21058,6.269780099999999
+317,Broken Hill,New South Wales,Australia,-31.9595859,141.4608138
+318,Krasnosel'kup,Yamalo-Nenets Autonomous Okrug,Russia,65.69455599999999,82.525613
+319,Aswan,Aswan Governorate,Egypt,24.088938,32.8998293
+320,Port-Gentil,Ogooue-Maritime,Gabon,-0.7351025999999999,8.7591311
+321,Margate,Florida,United States,26.2445263,-80.206436
+322,Alenquer,Lisboa,Portugal,39.0577004,-9.014003299999999
+323,The Naze,England,United Kingdom,51.8666667,1.2833333
+324,Yarada,Andhra Pradesh,India,17.6630996,83.27802779999999
+325,910,North Carolina,United States,35.8587422,-78.65373919999999
+326,Lahij,Lahij Governorate,Yemen,13.0578415,44.8832833
+327,Pailón,Santa Cruz Department,Bolivia,-17.658609,-62.7265099
+328,750,California,United States,35.6852076,-121.1682251
+329,7396,Colorado,United States,39.4696962,-104.9916811
+330,Chapais,Quebec,Canada,49.78221,-74.85248
+331,Dachuan District,Sichuan,China,31.196079,107.511843
+332,Walvis Bay,Erongo Region,Namibia,-22.9584081,14.5057511
+333,Padang,West Sumatra,Indonesia,-0.9470831999999999,100.417181
+334,10,California,United States,37.5655418,-122.3286496
+335,2315,Texas,United States,32.838761,-96.97536300000002
+336,La Ronge,Saskatchewan,Canada,55.10823,-105.285989
+337,Esperance,Western Australia,Australia,-33.8613469,121.8914377
+338,Martapura,South Kalimantan,Indonesia,-3.411598,114.8452
+339,Totness,South Australia,Australia,-35.0488165,138.8389513
+340,Bjørnevatn,Troms og Finnmark fylke,Norway,69.6674613,29.9871566
+341,Las Colinas,Texas,United States,32.8958605,-96.9588229
+342,Kirakira,Makira-Ulawa,Solomon Islands,-10.4558259,161.9187146
+343,Port Alfred,Eastern Cape,South Africa,-33.5864065,26.8851448
+344,Taksimo,Buryatia,Russia,56.3667702,114.8344788
+345,Lima,Callao Region,Peru,-12.0463731,-77.042754
+346,San Pedro,California,United States,33.7360619,-118.2922461
+347,Caravelas,State of Bahia,Brazil,-17.7335834,-39.2652564
+348,# 105,Nevada,United States,36.0468041,-115.2441626
+349,260,Gauteng,South Africa,-26.09866,27.996771
+350,Zhigansk,Sakha Republic,Russia,66.75206399999999,123.3941119
+351,Bokspits,Northern Cape,South Africa,-26.9,20.7
+352,85,Ceará,Brazil,-3.7571057,-38.48926489999999
+353,Yunhe County,Zhejiang,China,28.11579,119.573397
+354,Osterburg,Saxony-Anhalt,Germany,52.7890715,11.7223312
+355,Fevik,Agder,Norway,58.3782012,8.6760206
+356,Cape Coast,Central,Ghana,5.13151,-1.2794744
+357,Magong,,Taiwan,23.5706269,119.5774616
+358,Korla,Xinjiang,China,41.725891,86.17463300000001
+359,Mutsu,Aomori,Japan,41.2927986,141.1834683
+360,Labutta,Ayeyarwady,Myanmar (Burma),16.149328,94.7562159
+361,Tiksi,Sakha Republic,Russia,71.63748199999999,128.8644716
+362,San Cristóbal de las Casas,Chiapas,Mexico,16.7369928,-92.63759879999999
+363,Sakete,Plateau Department,Benin,6.7368274,2.6636066
+364,Dakar,Dakar Region,Senegal,14.716677,-17.4676861
+365,Jalu,Al Wahat District,Libya,29.040621,21.4991334
+366,Tuktoyaktuk,Northwest Territories,Canada,69.445358,-133.034181
+367,Nizhneyansk,Sakha Republic,Russia,71.450058,136.1122279
+368,100,North Carolina,United States,35.8101509,-78.4820318
+369,Namatanai District,New Ireland Province,Papua New Guinea,-3.6528325,152.3917226
+370,Hambantota,Southern Province,Sri Lanka,6.1428829,81.12123079999999
+371,Miguel Calmon,State of Bahia,Brazil,-11.4287281,-40.5948242
+372,Mombetsu,Hokkaido,Japan,44.3564386,143.3543524
+373,San Policarpo,Eastern Visayas,Philippines,12.2046953,125.4781649
+374,Mildura,Victoria,Australia,-34.2080167,142.1245535
+375,Shirokovskiy,Nizhny Novgorod Oblast,Russia,54.92013619999999,44.7444294
+376,Zainsk,Republic of Tatarstan,Russia,55.2840468,52.0031731
+377,Baraawe,Shabeellaha Hoose,Somalia,1.1161954,44.0318162
+378,1140,Arkansas,United States,36.3858333,-94.2205556
+379,Vysokogornyy,Stavropol Krai,Russia,43.84879979999999,42.7267967
+380,Barra Velha,State of Santa Catarina,Brazil,-26.6331439,-48.6846608
+381,Bidhuna,Uttar Pradesh,India,26.8030435,79.5055246
+382,Wencheng County,Zhejiang,China,27.786996,120.091498
+383,3622,Nebraska,United States,41.25264380000001,-95.9672813
+384,Taoudenni,Tombouctou Region,Mali,22.6764132,-3.9789143
+385,Joshimath,Uttarakhand,India,30.5505524,79.56596329999999
+386,Zhosaly,Kyzylorda,Kazakhstan,45.4852437,64.08186119999999
+387,Mahajanga,Mahajanga Province,Madagascar,-15.6921494,46.3336857
+388,Pascagoula,Mississippi,United States,30.3657552,-88.5561272
+389,Tinskoy,Krasnoyarsk Krai,Russia,56.1623008,96.9709055
+390,Bulgan,,Mongolia,48.9690913,102.8831723
+391,Latung,East Nusa Tenggara,Indonesia,-8.4352311,120.4386437
+392,Murghab,Gorno-Badakhshan Autonomous Province,Tajikistan,38.1869138,73.9976946
+393,Havre-Saint-Pierre,Quebec,Canada,50.24181400000001,-63.598569
+394,701,Arkansas,United States,36.1702073,-94.13613559999999
+395,Danane,Montagnes District,Côte d'Ivoire,7.267603699999999,-8.1447804
+396,Licata,Sicily,Italy,37.1017094,13.9373306
+397,Rincon,Rincón,Puerto Rico,18.3402164,-67.2500174
+398,Antofagasta,Antofagasta,Chile,-23.6509279,-70.39750219999999
+399,Ambovombe,Toliara Province,Madagascar,-25.1720132,46.0897124
+400,Povenets,Republic of Karelia,Russia,62.847787,34.8257603
+401,Talca,Maule,Chile,-35.4232444,-71.6484804
+402,Hobyo,Mudug,Somalia,5.3515922,48.5249751
+403,Kupang,East Nusa Tenggara,Indonesia,-10.1771997,123.6070329
+404,Grand River South East,Flacq District,Mauritius,-20.2888094,57.78141199999999
+405,Havre,Montana,United States,48.549999,-109.6840887
+406,Betanzos,Galicia,Spain,43.2784298,-8.213123399999999
+407,Paita District,Piura,Peru,-5.0938488,-81.0962172
+408,Knoxville,Tennessee,United States,35.9606384,-83.9207392
+409,Yerbogachen,Irkutsk Oblast,Russia,61.2776586,108.0136671
+410,Namibe,Namibe Province,Angola,-15.1978317,12.1575544
+411,Voh,North Province,New Caledonia,-20.9557855,164.6839545
+412,Montevideo,Montevideo Department,Uruguay,-34.9011127,-56.16453139999999
+413,Sørvágur,Vága Municipality,Faroe Islands,62.07129279999999,-7.3058656
+414,650,Missouri,United States,38.6449452,-90.50457279999999
+415,848,New York,United States,42.9168466,-73.8895636
+416,Nikolskoye,Kamchatka Krai,Russia,55.1981604,166.0015368
+417,Bargaal,Bari,Somalia,11.2854783,51.0762536
+418,Hargeisa,Woqooyi Galbeed,Somalia,9.562389,44.0770134
+419,1209,Washington,United States,47.2233696,-122.4498672
+420,606-614,California,United States,34.0812288,-118.3853088
+421,Harper,Kansas,United States,37.2866863,-98.02589449999999
+422,Antalaha,Antsiranana Province,Madagascar,-14.9061237,50.2785486
+423,Ólafsvík,,Iceland,64.89604849999999,-23.7060262
+424,San Jerónimo,Antioquia,Colombia,6.442825699999999,-75.72776689999999
+425,Le Port,Saint-Paul,Réunion,-20.9456859,55.295055
+426,Ilulissat,Qaasuitsup Municipality,Greenland,69.2198118,-51.0986031
+427,119,Minnesota,United States,44.9840019,-93.270084
+428,Cabedelo,State of Paraíba,Brazil,-7.0402624,-34.8430098
+429,Gouyave,Saint John,Grenada,12.1691738,-61.7261422
+430,Guerrero Negro,Baja California Sur,Mexico,27.9591758,-114.056646
+431,Ajdabiya,Ajdabiya,Libya,30.214647,20.1402594
+432,Novonikolaevskii,Volgograd Oblast,Russia,50.975842,42.35232250000001
+433,Marystown,Newfoundland and Labrador,Canada,47.1650754,-55.1555299
+434,Aquiraz,State of Ceará,Brazil,-3.9063032,-38.3874882
+435,Port Moresby,National Capital District,Papua New Guinea,-9.443800399999999,147.1802671
+436,Chernyshevsky,Sakha Republic,Russia,63.0250384,112.4902494
+437,Alice Springs,Northern Territory,Australia,-23.698042,133.8807471
+438,Mount Isa,Queensland,Australia,-20.7263687,139.4930159
+439,Grand Gaube,Rivière du Rempart District,Mauritius,-20.014212,57.6694082
+440,Zhanakorgan,Kyzylorda Province,Kazakhstan,43.9082043,67.24177
+441,Kudahuvadhoo,Central Province,Maldives,2.6707463,72.8943768
+442,Shyngyrlau,West Kazakhstan Province,Kazakhstan,51.0980599,54.08407159999999
+443,Te Anau,Southland,New Zealand,-45.41442929999999,167.7180426
+444,5000,Oklahoma,United States,36.1476579,-96.04936839999999
+445,Kavaratti,Lakshadweep,India,10.5593204,72.63581340000002
+446,Champerico,Retalhuleu Department,Guatemala,14.2974022,-91.9087026
+447,Half Moon Bay,California,United States,37.4635519,-122.4285862
+448,Springfield,Missouri,United States,37.2089572,-93.29229889999999
+449,Toftir,Eysturoy,Faroe Islands,62.09733120000001,-6.737046899999999
+450,Agüimes,Canary Islands,Spain,27.9018327,-15.4463485
+451,Salym,Khanty-Mansi Autonomous Okrug,Russia,60.0612676,71.453642
+452,Porangatu,State of Goiás,Brazil,-13.4329875,-49.14241149999999
+453,2030,Texas,United States,32.9703284,-96.90677289999999
+454,Angola,,,-11.202692,17.873887
+455,Pyapon,Ayeyarwady,Myanmar (Burma),16.2850333,95.67998159999999
+456,Linqing,Shandong,China,36.838277,115.704881
+457,285,Texas,United States,28.7083932,-100.4923471
+458,Vao,Malampa Province,Vanuatu,-15.8969511,167.3080313
+459,Vũng Tàu,Ba Ria - Vung Tau,Vietnam,10.4113797,107.136224
+460,Balabac,MIMAROPA,Philippines,8.1539618,117.1264753
+461,Coahuayana,Michoacán,Mexico,18.7372222,-103.6688888
+462,Salta,Salta Province,Argentina,-24.7821269,-65.4231976
+463,Gidole,"Southern Nations, Nationalities, and People's Region",Ethiopia,5.6497493,37.3693679
+464,Mandalgovi,Dundgovi,Mongolia,45.7631589,106.2650297
+465,Sortland,Nordland,Norway,68.69588449999999,15.4051116
+466,Mehamn,Troms og Finnmark fylke,Norway,71.0357069,27.848941
+467,Luan River,,China,40.8957785,117.7982479
+468,Grindavik,,Iceland,63.8441808,-22.4383818
+469,# Ll3,New York,United States,40.728946,-73.8572059
+470,Berbera,Woqooyi Galbeed,Somalia,10.4347941,45.0139904
+471,Klouklubed,Peleliu,Palau,7.040244599999999,134.256193
+472,Hollola,,Finland,60.9887015,25.5163229
+473,Byron Bay,New South Wales,Australia,-28.6473671,153.601977
+474,Buin,Autonomous Region of Bougainville,Papua New Guinea,-6.7465002,155.6851709
+475,Birjand,South Khorasan Province,Iran,32.8649039,59.2262472
+476,Benjamín Hill,Sonora,Mexico,30.1704706,-111.1101249
+477,123,Pennsylvania,United States,41.1989667,-76.8178436
+478,Suite 920,Texas,United States,32.7842542,-96.79764
+479,Teguise,Canary Islands,Spain,29.0599533,-13.5595989
+480,Angoram,East Sepik Province,Papua New Guinea,-4.0438672,144.0711745
+481,11123-B,Mississippi,United States,30.44506,-89.0994951
+482,Isabela,Isabela,Puerto Rico,18.5007759,-67.0243462
+483,Umm Bab,"الريان, Al Rayyan, Ар Раян, Αρ Ραϊάν, אראיאן, अर रायन, ラヤーン, Arajana, Ar Rayyan, Ar Rayyān, Ar-Rajjan, Ар-Райян, Ar Raqqah, Ар-Рајан, อาร์รอยยัน, 赖...ra",Qatar,25.2091503,50.80118969999999
+484,Sinnamary,Arrondissement of Cayenne,French Guiana,5.3746712,-52.9545991
+485,Yeppoon,Queensland,Australia,-23.1335258,150.7374455
+486,Bairiki,Gilbert Islands,Kiribati,1.3290526,172.9790528
+487,Kota Kinabalu,Sabah,Malaysia,5.980408,116.0734568
+488,Dingle,County Kerry,Ireland,52.14093889999999,-10.2640135
+489,Donostia-San Sebastian,Basque Country,Spain,43.318334,-1.9812313
+490,Bol'shaya Irba,Krasnoyarsk Krai,Russia,54.0802353,92.931382
+491,Porto-Novo,Ouémé Department,Benin,6.4968574,2.6288523
+492,Praia,Praia,Cape Verde,14.93305,-23.5133267
+493,Lamu,Lamu County,Kenya,-2.2695575,40.9006408
+494,Garh Mahārāja,Punjab,Pakistan,30.8338234,71.9060471
+495,Stawell,Victoria,Australia,-37.0575657,142.7753712
+496,Mutsamudu,Nzwani,Comoros,-12.1695811,44.40047
+497,Ivanivka,Odessa Oblast,Ukraine,46.9755236,30.469358
+498,Omsukchan,Magadan Oblast,Russia,62.533333,155.8
