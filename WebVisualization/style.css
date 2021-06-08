@@ -1,0 +1,46 @@
+body {
+	background-color: #aaaaaa;
+}
+
+h1 {
+	color: teal;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+h2 {
+	
+}
+
+#menu {
+	color: navy;
+	font-size: 24px;
+}
+
+.menuItem {
+	disply: inline;
+	padding: 30px;
+}
+.mainImage {
+	max-width: 1000px ;
+	max-height: auto;
+}
+
+#Summary {
+	display: block;
+	float: left;
+	background-color: white;
+	width:55%;
+}
+
+#Visualizations {
+	width: 40%;
+	display: block;
+	float: right;
+	background-color: orange;
+}
+
+.fun {
+	background-color: white;
+}

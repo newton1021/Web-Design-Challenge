@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>TemperAture View</title>
+		
+		
+		<link rel="stylesheet" href="style-grid.css">
+		<script src="jquery.js"></script> 
+		<script> 
+			$(function(){
+				$("#includedContent").load("Resources/output_data/city_temperature.html"); 
+			});
+		</script> 
+		
+	</head>
+	<body>
+		<div id="grid">
+			<div id="heading">
+				<h1>Good Morning</h1>
+			</div>
+			<div id="title">
+				<header>
+					<h2>Latitude</h2>
+				</header>
+			</div>
+			<div id="menu">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li>
+						<div  class="dropdown">
+							<a href="#">Analysis pages</a>						
+							<div class="dropdown-content">
+								<p><a href="visualization1.html">Temperature</a></p>
+								<p><a href="visualization2.html">Humidity</a></p>
+								<p><a href="visualization3.html">Cloudy</a></p>
+								<p><a href="visualization4.html">Wind</a></p>
+							</div>
+						</div>
+					</li>
+					<li><a href="comparision.html">Comparison</a></li>
+					<li><a href="datapage.html">Data Page</a></li>
+				</ul>
+			</div>
+			
+			
+			
+			<!--   Landing page  -->
+			<section id="compare">
+				<h3> Graphical Analysis</h3>
+				<article>
+					<div id="includedContent"></div>
+				</article>
+			</section>			
+			<div id="footer">
+				<p>The bottom</p>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,99 @@
+<style>
+#grid {
+	display: grid;
+	grid-template-areas: 
+     "h h h h"
+	"t t m m"
+	"s l r g"
+	"f f f f";
+	grid-template-rows: 4em 5em 3fr 0.5fr;
+	grid-template-columns: 0.5fr 3fr 2fr 0.5fr;
+}
+#heading {
+	grid-area: h;
+	background-color: teal;
+	color: white;
+	text-align: center;
+}
+#title {
+	grid-area: t;
+	padding-left: 15px;
+}
+
+
+#bar {
+	grid-column: 1 / 5;
+	grid-row: 1 /2;
+	
+	border-bottom: #E48C46 solid 10px ;
+}
+
+#l-side {
+	grid-area: l;
+}
+
+#l-side img {
+	width: 80%;
+	align-content: center;
+}
+
+
+#r-side {
+	grid-area: r;
+	
+}
+
+#r-side img {
+	max-width: 300px;
+}
+#footer {
+	grid-area: f;
+	border-top: black solid 1px;
+}
+
+#menu {
+	grid-area: m;
+	margin-right: 25px;
+	float: right;
+	align-content: flex-end;
+	
+}
+
+#menu li {
+	border: black solid 2px;
+	color: navy;
+	font-weight: bolder;
+	display: inline;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 15px;
+	border-radius: 20%;
+}
+
+
+body {
+	background-color: #eee;
+}
+
+h3 {
+	color: #009966;
+	font-size: 30px;
+}
+
+article {
+	background-color: white;
+	margin: 10px;
+	margin-left: 20px;
+	margin-right: 25px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.interesting {
+	font-weight: bolder;
+	color: #004C66;
+}
+
+.selected {
+	border: purple solid 5px;
+}</style>
