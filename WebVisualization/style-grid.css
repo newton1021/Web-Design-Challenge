@@ -24,9 +24,29 @@
 }
 
 #menu {
+	display:block;
 	grid-area: m;
 	border-bottom: #E48C46 solid 10px ;
+	background-color: gray;
 }
+
+#menu-small {
+	display: none;
+	grid-area: m;
+	border-bottom: #E48C46 solid 10px ;
+	background-color: #bbb;
+}
+
+@media (max-width: 992px) {
+	#menu-small {
+		display: block;
+	}
+	
+	#menu {
+		display: none;
+	}
+}
+
 
 #bar {
 /*	grid-area: t / t / m / m;*/
@@ -45,14 +65,13 @@
 
 
 #r-side {
-	grid-area: r;
-	width: auto;
 	
 }
 
 #r-side img {
-	max-width: 90%;
+	width: 90%;
 }
+
 #footer {
 	grid-area: f;
 	border-top: black solid 1px;
@@ -61,7 +80,14 @@
 #compare {
 	grid-area: l / l /r / r;
 	
-	
+}
+
+#cities {
+	display: block;
+	float: left;
+	width: 200px;
+	height: auto;
+	background-color: yellow;
 }
 
 #compare table {
@@ -80,9 +106,6 @@
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
-	background-color: gray;
-	
 	
 }
 
@@ -141,7 +164,10 @@ article {
 	border: purple solid 5px;
 }
 
-
+.plots {
+	text-align: right;
+	color: navy;
+}
 
 .dropdown-content {
 	display: none;
