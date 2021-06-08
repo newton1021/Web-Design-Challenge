@@ -87,7 +87,8 @@
 	float: left;
 	width: 200px;
 	height: auto;
-	background-color: yellow;
+	background-color: #FFFFE0;
+	margin-right: 10px;
 }
 
 #compare table {
